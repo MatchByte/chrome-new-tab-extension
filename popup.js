@@ -1,1 +1,1 @@
-console.log("This is a popup!) // ❌ broken code
+console.log("This is a popup!") // ❌ broken code
